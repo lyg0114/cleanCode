@@ -1,7 +1,14 @@
+package ch2;
+
 import java.util.ArrayList;
 import java.util.List;
-
-public class ch2 {
+/*
+*
+* p20 ~ p24
+* 의도를 분명명히 밝혀라
+*
+* * */
+public class clearIntention {
 
     final int STATUS_VALUE = 0;
     final int FLAGGED = 4;
