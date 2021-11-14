@@ -8,7 +8,7 @@ public class meaningfulContext {
      GuessStatisticsMessage message = new GuessStatisticsMessage();
      System.out.println(message.make('z', 0));
      System.out.println(message.make('z', 1));
-     System.out.println(message.make('ㅣz', 2));
+     System.out.println(message.make('z', 2));
 
    }
 
